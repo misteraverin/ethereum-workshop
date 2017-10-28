@@ -11,6 +11,17 @@
 3. устаналиваем `truffle-default-builder` с помощью `npm install truffle-default-builder --save`
 4. если вы все правильно сделали, то сделайте `truffle init, truffle migrate, затем truffle build и truffle serve` и откроете браузер по ссылке `localhost:8080`, в соседнем окне надо ввести: `testrpc`
 
+For windows users
+````
+mkdir eth-test
+cd eth-test
+truffle init
+truffle migrate
+
+в другом окошке терминала
+testrpc
+```
+
 ## Запускаем нашу программу
 *Two Bash command line required. One is for running TestRPC and other for running commands below*
   - `cd ~/ethereum-workshop`
