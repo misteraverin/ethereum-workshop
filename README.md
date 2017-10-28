@@ -9,7 +9,7 @@
 1. npm, node, truffle, truffle-default-builder
 2. **ВНИМАНИЕ!!!** Чтобы демо работало надо иметь версию truffle 3.2.1 . Если у вас уже стоит truffle, то удалите другую версию: `npm uninstall -g truffle` и напишите в терминале: `npm install -g truffle@3.2.1` 
 3. устаналиваем `truffle-default-builder` с помощью `npm install truffle-default-builder --save`
-4. если вы все правильно сделали, то сделайте `truffle init, truffle migrate, затем truffle build и truffle serve` и откроете браузер по ссылке `localhost:8080`
+4. если вы все правильно сделали, то сделайте `truffle init, truffle migrate, затем truffle build и truffle serve` и откроете браузер по ссылке `localhost:8080`, в соседнем окне надо ввести: `testrpc`
 
 ## Запускаем нашу программу
 *Two Bash command line required. One is for running TestRPC and other for running commands below*
