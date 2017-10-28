@@ -22,6 +22,14 @@ truffle migrate
 testrpc
 ```
 
+Копируем проект на компьютер и клонируем ветку с заданием:
+```
+mkdir ethereum-workshop
+cd ethereum-workshop
+git clone git@github.com:misteraverin/ethereum-workshop.git
+git chekcout -b task2 origin/task2
+```
+
 ## Запускаем нашу программу
 *Two Bash command line required. One is for running TestRPC and other for running commands below*
   - `cd ~/ethereum-workshop`
