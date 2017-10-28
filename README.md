@@ -26,7 +26,7 @@ testrpc
 ```
 mkdir ethereum-workshop
 cd ethereum-workshop
-git clone git@github.com:misteraverin/ethereum-workshop.git
+git clone https://github.com/misteraverin/ethereum-workshop.git
 git checkout -b task2 origin/task2
 ```
 
