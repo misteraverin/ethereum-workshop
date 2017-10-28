@@ -12,7 +12,7 @@
 4. если вы все правильно сделали, то сделайте `truffle init, truffle migrate, затем truffle build и truffle serve` и откроете браузер по ссылке `localhost:8080`, в соседнем окне надо ввести: `testrpc`
 
 For windows users
-````
+```
 mkdir eth-test
 cd eth-test
 truffle init
