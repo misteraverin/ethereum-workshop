@@ -29,7 +29,7 @@ cd ethereum-workshop
 git clone https://github.com/misteraverin/ethereum-workshop.git
 git checkout -b task2 origin/task2
 ```
-
+https://github.com/ethereum/wiki/wiki/JavaScript-API#web3ethgetbalance
 ## Запускаем нашу программу
 *Two Bash command line required. One is for running TestRPC and other for running commands below*
   - `cd ~/ethereum-workshop`
