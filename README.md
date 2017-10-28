@@ -27,7 +27,7 @@ testrpc
 mkdir ethereum-workshop
 cd ethereum-workshop
 git clone git@github.com:misteraverin/ethereum-workshop.git
-git chekcout -b task2 origin/task2
+git checkout -b task2 origin/task2
 ```
 
 ## Запускаем нашу программу
